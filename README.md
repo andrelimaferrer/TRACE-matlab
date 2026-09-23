@@ -1,6 +1,6 @@
 # TRACE — Trilinear Channel Estimation for Tri-Hybrid Architectures
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22923405.svg)](https://doi.org/10.5281/zenodo.22923405)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22923404.svg)](https://doi.org/10.5281/zenodo.22923404)
 
 MATLAB code accompanying:
 
