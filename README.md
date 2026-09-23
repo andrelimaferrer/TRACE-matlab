@@ -1,5 +1,7 @@
 # TRACE — Trilinear Channel Estimation for Tri-Hybrid Architectures
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22923405.svg)](https://doi.org/10.5281/zenodo.22923405)
+
 MATLAB code accompanying:
 
 > A. L. F. de Almeida and M. Liu, *"TRACE: A Trilinear Channel Estimation
@@ -198,7 +200,12 @@ matching, `exportgraphics` → `print`. GNU Octave 6+ works as well.
 
 ## Citing
 
-If you use this code, please cite the letter (see `CITATION.cff`).
+If you use this code, please cite the letter (see `CITATION.cff`) and the
+archived software:
+
+> de Almeida, A. L. F., & Liu, M. (2026). *TRACE: Trilinear Channel Estimation
+> for Tri-Hybrid Architectures (MATLAB)* (v1.0.1) [Computer software]. Zenodo.
+> https://doi.org/10.5281/zenodo.22923405
 
 ## License
 
