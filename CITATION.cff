@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "TRACE: Trilinear Channel Estimation for Tri-Hybrid Architectures (MATLAB)"
+message: "If you use this software, please cite both the software and the letter below."
+type: software
+authors:
+  - family-names: "de Almeida"
+    given-names: "André L. F."
+    email: "andre@gtel.ufc.br"
+    affiliation: "Department of Teleinformatics Engineering, Federal University of Ceará, Fortaleza, Brazil"
+  - family-names: "Liu"
+    given-names: "Mengzhen"
+license: MIT
+repository-code: "https://github.com/REPLACE-ME/TRACE-matlab"
+abstract: >-
+  Reference MATLAB implementation of TRACE, a trilinear (PARAFAC) channel
+  estimator for the single-user uplink of a tri-hybrid receiver with
+  pattern-reconfigurable antennas. Includes the ALS solver, the closed-form
+  physical-parameter recovery stage, a greedy dictionary baseline, an
+  oracle-support bound, and scripts reproducing every panel of the results
+  figure. No third-party dependencies.
+keywords:
+  - channel estimation
+  - tensor decomposition
+  - PARAFAC
+  - alternating least squares
+  - reconfigurable antennas
+  - tri-hybrid beamforming
+  - MIMO
+
+preferred-citation:
+  type: article
+  title: "TRACE: A Trilinear Channel Estimation Framework for Tri-Hybrid Architecture"
+  authors:
+    - family-names: "de Almeida"
+      given-names: "André L. F."
+    - family-names: "Liu"
+      given-names: "Mengzhen"
+  journal: "IEEE Wireless Communications Letters"
+  year: 2026
+  # Fill in on acceptance:
+  # volume:
+  # issue:
+  # start:
+  # end:
+  # doi:
