@@ -10,7 +10,7 @@ authors:
   - family-names: "Liu"
     given-names: "Mengzhen"
 license: MIT
-repository-code: "https://github.com/REPLACE-ME/TRACE-matlab"
+repository-code: "https://github.com/andrelimaferrer/TRACE-matlab"
 abstract: >-
   Reference MATLAB implementation of TRACE, a trilinear (PARAFAC) channel
   estimator for the single-user uplink of a tri-hybrid receiver with
